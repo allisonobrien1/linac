@@ -22,6 +22,7 @@ Our expected results include designing an optimal UV lighting system to decontam
 ## Authors
 
 Allison O'Brien
+
 Rebecca Abergel
 
 ## Contact
