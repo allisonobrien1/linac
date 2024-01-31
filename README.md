@@ -28,7 +28,7 @@ Rebecca Abergel
 
 ## Contact
 
-For any questions, please contact us at allisonobrien@berkeley.edu.
+For any questions, please contact us at abergel@berkeley.edu or allisonobrien@berkeley.edu.
 
 ## Citation
 
