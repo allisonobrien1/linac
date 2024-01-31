@@ -5,13 +5,18 @@
 
 ### Introduction
 
-This project investigates methods for improving food safety using high energy light sterilization. 
+This project investigates methods for improving food safety using high energy light sterilization. Our primary focus is on incorporating machine learning techniques into our existing stochastic computational models of UV and X-ray spectrum light. Leveraging these models, we aim to predict radiation transport endpoints while optimizing our physical systems for certain biological outcomes. This will enhance both the efficiency and efficacy of food safety measures involving radiation-based sterilization.
 
-https://abergel.lbl.gov/research/
+Additional research, ranging from radiation biophysics to bioactinide chemistry, by our group members may be found at: https://abergel.lbl.gov/research/
 
 ### Results
 
-Our expected results include designing an optimal UV lighting system to decontaminate surfaces as plants grow and configuring a system for X-ray irradiation of harvested foods for full volume decontamination. These systems will be integrated into the hydroponic indoor farming unit and harvesting workflow set up at UC Berkeley.
+Our anticipated results include designing an optimal UV lighting system to decontaminate surfaces as plants grow and configuring a system for X-ray irradiation of harvested foods for full volume decontamination. These systems will be integrated into the hydroponic indoor farming unit and harvesting workflow set up at UC Berkeley.
+
+So far, we have incorporated an empirical model of X-ray dose deposition in biological media into our Monte Carlo simulation framework to enhance the accuracy and speed of our computation.
+
+
+
 
 ## Usage
 
