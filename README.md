@@ -15,7 +15,7 @@ Our anticipated results include designing an optimal UV lighting system to decon
 
 So far, we have incorporated an empirical model of X-ray dose deposition in biological media into our Monte Carlo simulation framework to enhance the accuracy and speed of our computation.
 
-
+![6MVPDD_ML_2](6MVPDD_ML_2.png) <br />
 
 
 ## Usage
