@@ -14,8 +14,8 @@ Additional research, ranging from radiation biophysics to bioactinide chemistry,
 Our anticipated results include designing an optimal UV lighting system to decontaminate surfaces as plants grow and configuring a system for X-ray irradiation of harvested foods for full volume decontamination. These systems will be integrated into the hydroponic indoor farming unit and harvesting workflow set up at UC Berkeley.
 
 So far, we have recreated the dose distributions from high energy x-ray beams for various media and geometric configurations using Monte Carlo simulation.
-
-
+![medical_linac_example](medical_linac_example.png) <br />
+![boxinbox](boxinbox.png) <br />
 
 We have also successfully incorporated an empirical model of X-ray dose deposition in biological media into our simulation framework to enhance the accuracy and speed of our computation.
 
