@@ -28,6 +28,7 @@ We have also successfully incorporated an empirical model of X-ray dose depositi
 To recreate our radiation transport simulations, we recommend the Geant4 toolkit (https://geant4.web.cern.ch/). While many other Monte Carlo radiation transport codes are available, we have chosen Geant4 because it is open source, well-documented, and provides a large collection of example projects for programmers at any stage of learning. A major drawback of this option is that Geant4 is written in C++, which may be less popular than our choice for data post-processing, Python. 
 
 ### Running
+Once the user is comfortable navigating the Geant4 simulation toolkit, they should open the Advanced Example "medical_linac" as this will provide the basis for our simulation. Our source code and macro files will be made available soon.
 
 ## Authors
 
