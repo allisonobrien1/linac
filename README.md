@@ -14,13 +14,14 @@ So far, we have recreated the dose distributions from high energy x-ray beams fo
 ![medical_linac_example](medical_linac_example.png) <br />
 ![boxinbox](boxinbox.png) <br />
 
-We have also successfully incorporated an empirical model of X-ray dose deposition in biological media into our simulation framework to enhance the accuracy and speed of our computation.
+We have also successfully incorporated an empirical model of x-ray dose deposition in biological media into our simulation framework to enhance the accuracy and speed of our computation.
 
 <div style="display: flex;">
     <img src="6MVPDDs_3.png" alt="6MVPDDs_3" style="width: 49%;">
     <img src="inhomog.png" alt="inhomog" style="width: 49%;">
 </div>
 
+Fitting Monte Carlo radiation transport simulation results with an empirical model of megavoltage x-ray beams allows for rapid depth-dose calculations in water. The figure above illustrates the correction of low-statistic simulation results by fitting with an empirical function, improving our dose-depth errors to (a) within 2% for the full homogeneous water phantom and (b) 1.5% to 2% at the interfaces of a heterogeneous water phantom with air cavity when compared to measured data.
 
 ## Usage
 
