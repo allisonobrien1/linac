@@ -16,7 +16,8 @@ So far, we have recreated the dose distributions from high energy x-ray beams fo
 
 We have also successfully incorporated an empirical model of X-ray dose deposition in biological media into our simulation framework to enhance the accuracy and speed of our computation.
 
-![PDDcomparisons](PDDcomparisons.png) <br />
+![6MVPDDs_3](6MVPDDs_3.png) <br />
+![inhomog](inhomog.png) <br />
 
 
 ## Usage
