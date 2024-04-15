@@ -22,10 +22,6 @@ We have also successfully incorporated an empirical model of X-ray dose depositi
 </div>
 
 
-![6MVPDDs_3](6MVPDDs_3.png) <br />
-![inhomog](inhomog.png) <br />
-
-
 ## Usage
 
 ### Setup
