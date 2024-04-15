@@ -23,7 +23,7 @@
 // * acceptance of all terms of the Geant4 Software license.          *
 // ********************************************************************
 //
-// The code was written by :
+// Based on code written by :
 //	^Claudio Andenna  claudio.andenna@ispesl.it, claudio.andenna@iss.infn.it
 //      *Barbara Caccia barbara.caccia@iss.it
 //      with the support of Pablo Cirrone (LNS, INFN Catania Italy)
@@ -38,6 +38,10 @@
 // more information:
 // http://g4advancedexamples.lngs.infn.it/Examples/medical-linac
 //
+// 
+// Modified code by :
+// Allison O'Brien
+// Rebecca Abergel
 //*******************************************************//
 
 #include "ML2Ph_BoxInBox.hh"
