@@ -8,7 +8,7 @@ Additional research, ranging from radiation biophysics to bioactinide chemistry,
 
 ### Results
 
-Our anticipated results include designing an optimal UV lighting system to decontaminate surfaces as plants grow and configuring a system for X-ray irradiation of harvested foods for full volume decontamination. These systems will be integrated into the hydroponic indoor farming unit and harvesting workflow set up at UC Berkeley.
+Our anticipated results include designing an optimal UV lighting system to decontaminate surfaces as plants grow and configuring a system for x-ray irradiation of harvested foods for full volume decontamination. These systems will be integrated into the hydroponic indoor farming unit and harvesting workflow set up at UC Berkeley.
 
 So far, we have recreated the dose distributions from high energy x-ray beams for various media and geometric configurations using Monte Carlo simulation.
 
