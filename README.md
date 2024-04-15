@@ -50,3 +50,5 @@ No licensing at this time.
 
 ## Funding
 
+This work is supported by AFRI Competitive Grant no. 2020-67021-32855/project accession no. 1024262 from the USDA National Institute of Food and Agriculture. The grant is being administered through AIFS: the AI Institute for Next Generation Food Systems.
+
