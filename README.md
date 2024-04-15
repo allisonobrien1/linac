@@ -21,7 +21,7 @@ We have also successfully incorporated an empirical model of x-ray dose depositi
     <img src="inhomog.png" alt="inhomog" style="width: 49%;">
 </div>
 
-Fitting Monte Carlo radiation transport simulation results with an empirical model of megavoltage x-ray beams allows for rapid depth-dose calculations in water. The figure above illustrates the correction of low-statistic simulation results by fitting with an empirical function, improving our dose-depth errors to (a) within 2% for the full homogeneous water phantom and (b) 1.5% to 2% at the interfaces of a heterogeneous water phantom with air cavity when compared to measured data.
+Fitting Monte Carlo radiation transport simulation results with an empirical model of megavoltage x-ray beams allows for rapid depth-dose calculations in water. The figure above illustrates the correction of low-statistic simulation results by fitting with an empirical function, improving our dose-depth errors to (a) within 2% for the full homogeneous water phantom after the first voxel and (b) 1.5% to 2% at the interfaces of a heterogeneous water phantom with air cavity when compared to measured data.
 
 ## Usage
 
