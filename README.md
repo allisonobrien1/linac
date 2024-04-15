@@ -1,5 +1,4 @@
 # linac
-## This repository is in progress towards reaching AIFS compliance.
 
 ## Overview
 
