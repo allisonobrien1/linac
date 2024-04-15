@@ -4,6 +4,8 @@
 
 This project investigates methods for improving food safety using high energy light sterilization. Our primary focus is on incorporating machine learning techniques into our existing stochastic computational models of UV and X-ray spectrum light. Leveraging these models, we aim to predict radiation transport endpoints while optimizing our physical systems for certain biological outcomes. This will enhance both the efficiency and efficacy of food safety measures involving radiation-based sterilization.
 
+<img src="squash_CT2.jpg" alt="squash_CT2" width="500">
+
 Additional research, ranging from radiation biophysics to bioactinide chemistry, by our group members may be found at: https://abergel.lbl.gov/research/
 
 ### Results
