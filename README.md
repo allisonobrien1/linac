@@ -1,5 +1,3 @@
-# linac
-
 ## Overview
 
 ### Introduction
